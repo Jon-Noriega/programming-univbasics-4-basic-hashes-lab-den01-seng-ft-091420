@@ -8,7 +8,7 @@ def my_hash
 end
 
 def pioneer
-  symbol_hash = {Team: "Nuggets"}
+  symbol_hash = {:name => "Grace Hopper"}
   symbol_hash
 end
 
