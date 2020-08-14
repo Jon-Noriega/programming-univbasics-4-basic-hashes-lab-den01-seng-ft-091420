@@ -3,12 +3,12 @@ def new_hash
 end
 
 def my_hash
-  my_hash = {city: "Providence"}
+  my_hash = {City: "Providence"}
   my_hash
 end
 
 def pioneer
-  # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  symbol_hash = {Team: "Nuggets"}
 end
 
 
