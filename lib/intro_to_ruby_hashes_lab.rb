@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  my_hash = { City: "Providence" }
+  my_hash = {city: "Providence"}
   my_hash
 end
 
