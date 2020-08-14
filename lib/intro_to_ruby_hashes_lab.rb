@@ -9,6 +9,7 @@ end
 
 def pioneer
   symbol_hash = {Team: "Nuggets"}
+  symbol_hash
 end
 
 
